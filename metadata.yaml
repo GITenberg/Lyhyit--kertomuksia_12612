@@ -1,0 +1,31 @@
+_repo: Lyhyit--kertomuksia_12612
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Canth, Minna
+    aliases:
+    - Johnsson, Ulrika Vilhelmina
+    - Canth, Ulrika Vilhelmina Johnsson
+    birthdate: 1844
+    deathdate: 1897
+    gutenberg_agent_id: '3553'
+    url: http://www.gutenberg.org/2009/agents/3553
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Minna_Canth
+    - http://fi.wikipedia.org/wiki/Minna_Canth
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12612'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PH'
+- GITenberg
+title: Lyhyitä kertomuksia
+url: http://www.gutenberg.org/ebooks/12612
